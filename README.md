@@ -116,3 +116,6 @@ John Preskill (Caltech): http://www.theory.caltech.edu/people/preskill/ph229/
 Andrew Childs (University of Maryland): http://cs.umd.edu/~amchilds/qa/
 
 John Watrous (University of Waterloo): https://cs.uwaterloo.ca/~watrous/TQI/
+
+The largest QM resource listing: (Frank Rioux Professor Emeritus Department of Chemistry)
+https://faculty.csbsju.edu/frioux/workinprogress.html
